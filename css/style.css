@@ -10,5 +10,10 @@
 
 body{
     background-color: #eee;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif; 
 }
+
+.container{
+    max-width: 500px;
+}
+
